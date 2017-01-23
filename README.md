@@ -35,7 +35,7 @@ If you want to run your instance of RAW locally on your machine, be sure you hav
 Clone RAW from the command line:
 
 ``` sh
-$ git clone https://github.com/densitydesign/raw.git
+$ git clone https://github.com/wsulejmanmms/raw.git
 ```
 
 browse to RAW root folder:
